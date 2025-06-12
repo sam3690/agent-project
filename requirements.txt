@@ -1,0 +1,12 @@
+# Core AI Agent dependencies
+openai
+python-dotenv
+
+langchain 
+langchain-core
+wikipedia 
+langchain-community 
+langchain-openai
+langchain-anthropic
+pydantic
+duckduckgo-search
