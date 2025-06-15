@@ -1,0 +1,10 @@
+--- Research Output ---
+Timestamp: 2025-06-15 14:08:26
+
+Topic: Contribution to Science of Pakistan
+Summary: Pakistan has made significant contributions to science, particularly through the work of notable scientists like Dr. Abdus Salam and Dr. Ishfaq Ahmad. Dr. Salam, a Nobel Prize-winning physicist, is renowned for his electroweak unification theory and played a pivotal role in establishing Pakistan's scientific infrastructure, including contributions to agricultural science and space research. Dr. Ishfaq Ahmad, a nuclear physicist, contributed to high-energy physics and served as a science advisor to the government. These scientists have laid a strong foundation for scientific research and development in Pakistan.
+Sources:
+- Wikipedia
+- Search results on contributions of Pakistani scientists
+Tools Used: wikipedia, search
+
